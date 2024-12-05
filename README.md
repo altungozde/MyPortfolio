@@ -5,7 +5,8 @@ Kullanıcılar tarafından girilen bilgiler, sistemdeki "Hakkımda", "Deneyimler
 
 Projenin Amacı ve Genel Bakış :
 
-✔ ASP.NET Core kullanarak sıfırdan bir admin paneli içeren dinamik bir portföy web uygulaması geliştirdim.
+![image](https://github.com/user-attachments/assets/6df8d859-9204-44fd-aa51-7872e38d11ad)
+ ASP.NET Core kullanarak sıfırdan bir admin paneli içeren dinamik bir portföy web uygulaması geliştirdim.
 ✔ Projenin ön yüzü için Single-Page bir tema kullanıldı. Bu tema, aşağıdaki alanları içermektedir:
 -Hakkımda
 -Deneyimlerim
