@@ -5,8 +5,8 @@ Kullanıcılar tarafından girilen bilgiler, sistemdeki "Hakkımda", "Deneyimler
 
 Projenin Amacı ve Genel Bakış :
 
-☄ ASP.NET Core kullanarak sıfırdan bir admin paneli içeren dinamik bir portföy web uygulaması geliştirdim.
-☄ Projenin ön yüzü için Single-Page bir tema kullanıldı. Bu tema, aşağıdaki alanları içermektedir:
+📌 ASP.NET Core kullanarak sıfırdan bir admin paneli içeren dinamik bir portföy web uygulaması geliştirdim.
+📌 Projenin ön yüzü için Single-Page bir tema kullanıldı. Bu tema, aşağıdaki alanları içermektedir:
 -Hakkımda
 -Deneyimlerim
 -Projelerim
@@ -14,29 +14,29 @@ Projenin Amacı ve Genel Bakış :
 -Referanslarım
 -İletişim Bilgilerim
 
-☄ Admin Paneli eklendi ve tüm işlemler dinamik hale getirildi. Aşağıdaki işlemler başarıyla uygulandı:
+📌 Admin Paneli eklendi ve tüm işlemler dinamik hale getirildi. Aşağıdaki işlemler başarıyla uygulandı:
 Ekle/Sil/Güncelle/Listele özellikleri.
 
-☄ Projeyi daha kullanıcı dostu hale getirmek için:
+📌 Projeyi daha kullanıcı dostu hale getirmek için:
 Navbar bildirimleri dinamik hale getirildi. Mesajlar okunma durumlarına göre ayrıldı (okundu/okunmadı).
 
-☄ Veri tabanı yönetimi için SQL kullanıldı ve Entity Framework Core ile ORM işlemleri gerçekleştirildi.
+📌 Veri tabanı yönetimi için SQL kullanıldı ve Entity Framework Core ile ORM işlemleri gerçekleştirildi.
 
-☄ Tüm tablolar ve veritabanı yapıları Code-First yaklaşımıyla oluşturuldu.
+📌 Tüm tablolar ve veritabanı yapıları Code-First yaklaşımıyla oluşturuldu.
 
-☄ Sayfalar arasında hızlı geçiş sağlamak için NavBar ve Sidebar özellikleri eklendi.
+📌 Sayfalar arasında hızlı geçiş sağlamak için NavBar ve Sidebar özellikleri eklendi.
 
-☄ Ziyaretçilere, iletişim paneli üzerinden mesaj bırakma imkanı sunuldu.
+📌 Ziyaretçilere, iletişim paneli üzerinden mesaj bırakma imkanı sunuldu.
 Kullanılan Teknolojiler ve Araçlar
 
-☄ Programlama Dilleri:
+📌 Programlama Dilleri:
 C#
 HTML/CSS
 JavaScript
 
-☄ Frameworkler ve Kütüphaneler:
+📌 Frameworkler ve Kütüphaneler:
 ASP.NET Core MVC
 Entity Framework Core 8.0
 
-☄ Veritabanı:
+📌 Veritabanı:
 Microsoft SQL Server
